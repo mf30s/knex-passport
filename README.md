@@ -1,4 +1,4 @@
-# knex-passport
+# knex-passport-mysql
 
 Anyone having connection issues with combining passport with mysql?
 
